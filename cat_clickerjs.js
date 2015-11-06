@@ -1,11 +1,7 @@
  
-	 var CLICK=1;
-	 if (CLICK!=0){
-				$("#image").click( function(){
-				alert("the number of click "+ CLICK + " clicks");
-				CLICK=CLICK+1;
-			});
-				
-			 
-            };
+	 var CLICK=0;
+	$("#image").click( function(){
+		CLICK=CLICK+1;
+		alert("the number of click "+ CLICK + " clicks");
+	});
 	

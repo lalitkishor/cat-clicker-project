@@ -1,0 +1,15 @@
+.margin{
+	margin-left :150px;
+	margin-right:150px;
+	margin-top: 25px;
+	margin-bottom: 20px;	
+}
+.row{
+	width:100%;
+}
+.col-6{
+	width:50%;
+}
+*{
+	border:1px solid #f3f3f3;
+}*
